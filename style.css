@@ -1,39 +1,30 @@
-.div{
-    width: 1280px;
-    height: 840px;
-    background-color: rgb(157, 215, 215);
+body{
+    background-color: blueviolet;
 }
 div{
-    width: 1200px;
-    height: 210px;
+    width: 800px;
+    height: 400px;
     background-color: pink;
     border-radius: 25px;
-    padding-left: 38px;
-    padding-top: 10px;
-}
-img{
-    width:400px;
-    height:200px;
-
-}
-.two{
-    width: 400px;
+    margin-left: 350px;
+    margin-top: 50px;
+}    
+.ta{
+  
+    width: 300px;
     height: 200px;
-    padding-left: 355px;
+    padding-left: 250px;
+    padding-top: 25px;
+    border-radius: 25px;
 }
-button{
-    border:none;
-    width: 410px;
-    height: 100px;
+.name{
+    
+    color:blueviolet;
+    font-size:28px;
     text-align: center;
-    font-size: 28px;
-    margin-top:420px;
-    margin-left: 390px;
-    border-radius: 28px;
-    background-color: pink;
-    color:brown;
 }
-p{
-    font-size: medium;
-    color:rgb(63, 40, 90);
+.number{
+    color:black;
+    font-size:22px;
+    font-style:initial;
 }
